@@ -28,8 +28,6 @@ The model was trained from scratch (transfer learning) on a large combined datas
 - Total training images: ~120k–140k (after combining and cleaning)
 - Severe class imbalance addressed through weighted sampling and augmentations
 
-Class distribution is highly skewed (some diseases have 10k+ samples, others <200).
-
 ## Performance Highlights
 
 | Metric                  | Value          | Notes                              |
